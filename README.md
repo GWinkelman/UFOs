@@ -12,14 +12,17 @@ The purpose of this analysis project was to learn how to use JavaScript (along w
 ![step1](/images/step1.png)
 
 
+
 - The next step is filling in the filters on the left side and then hitting enter.  For example, in the image below I used "boulder" as a filter in the city input box.  After hitting enter, you can see that all of the data in the data is from Boulder, CO (which is only 1 UFO sighting).  
 
 ![step2](/images/step2.png)
 
 
+
 - In order to filter more data, all you need to do is keep typing the filters into the text boxes on the left-hand side.  You will have to manually clear the last search. Since Boulder, CO only had one sighting, we will use "el cajon" as our next example with multiple filters applied.  Searching with "el cajon" as the city, "triangle" as the shape, and "1/1/2010" as the date will give you the image shown below. 
 
 ![step3](/images/step3.png)
+
 
 
 - Now you should be ready to search for the UFO data by any of the filters that are on the left-hand side.  It is important to note that case-sensitivity does matter, so keep things lowercase and enter them how they appear in the table in order to complete a successful filtered search.  (i.e. Use "ca" instead of "Ca" for California). 
